@@ -1,0 +1,10 @@
+selenium
+colorama 
+init
+termcolor
+cprint 
+pyfiglet
+configparser
+ConfigParser
+youtube_dl
+yagmail
