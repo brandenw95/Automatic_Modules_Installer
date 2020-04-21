@@ -8,3 +8,10 @@ configparser
 ConfigParser
 youtube_dl
 yagmail
+operator
+itemgetter
+prettyTable
+pdfkit
+weasyprint
+PyQt5
+PyQt5-tools
